@@ -13,4 +13,5 @@ body > header {
 
 .hidden {
   visibility: hidden;
+  color: red;
 }
