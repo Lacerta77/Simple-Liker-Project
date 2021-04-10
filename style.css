@@ -13,5 +13,8 @@ body > header {
 
 .hidden {
   visibility: hidden;
+}
+
+.activated-heart {
   color: red;
 }
